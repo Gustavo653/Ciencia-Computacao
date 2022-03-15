@@ -12,6 +12,8 @@ public class Atividades_Logica {
             System.out.println("1 - Média Ponderada");
             System.out.println("2 - Salário Aumento");
             System.out.println("3 - Conversão Unidades");
+            System.out.println("4 - Cálculo salário");
+            System.out.println("5 - Cálculo Energia");
             int opcao = scan.nextInt();
 
             if (opcao == 1) {
@@ -67,9 +69,30 @@ public class Atividades_Logica {
                 }
 
             } else if (opcao == 4) {
-
+                
+                double valor_hora, horas_trabalhadas;
+                System.out.println("Insira o número de horas trabalhadas: ");
+                horas_trabalhadas = scan.nextDouble();
+                System.out.println("Insira o valor do valor hora: ");
+                valor_hora = scan.nextDouble();
+                
+                System.out.println("Alternativa A: "); //Não faz sentido - A
+                System.out.println("Salário Bruto: " + horas_trabalhadas * valor_hora); //B
+                System.out.println("Imposto: " + ((horas_trabalhadas * valor_hora) * 0.03)); //C
+                System.out.println("Salário Líquido: " + ((horas_trabalhadas * valor_hora) * 0.97)); //D
+                
             } else {
-
+                
+                double salario_minimo, quantidade_quilowatts;
+                System.out.println("Insira a quantidade de quilowatts consumida: ");
+                quantidade_quilowatts = scan.nextDouble();
+                System.out.println("Insira o valor do salário mínimo: ");
+                salario_minimo = scan.nextDouble();
+                
+                System.out.println("O valor do quilowatt: " + (salario_minimo * 0.2)); //A
+                System.out.println("O valor a ser pago pela residência: " + ((salario_minimo * 0.2) * quantidade_quilowatts)); //B
+                System.out.println("O valor a ser pago pela residência com 15% de desconto: " + (((salario_minimo * 0.2) * quantidade_quilowatts)) * 0.85); //C
+                
             }
         }
     }
