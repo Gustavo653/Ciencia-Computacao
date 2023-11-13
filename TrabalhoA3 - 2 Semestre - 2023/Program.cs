@@ -16,15 +16,19 @@
 
                 if (int.TryParse(Console.ReadLine(), out int opcao))
                 {
+                    Console.Clear();
                     switch (opcao)
                     {
                         case 1:
                             Console.WriteLine("Informe o ponto de partida:");
                             var ponto1 = Console.ReadLine();
+                            Console.WriteLine();
                             Console.WriteLine("Informe o ponto de destino:");
                             var ponto2 = Console.ReadLine();
+                            Console.WriteLine();
 
                             var distancia = EncontrarDistancia(distancias, ponto1!, ponto2!);
+                            Console.WriteLine();
                             if (distancia != null)
                                 Console.WriteLine("A distância entre {0} e {1} é {2}", ponto1, ponto2, distancia.DistanciaPontos);
                             else
@@ -73,6 +77,8 @@
                 {
                     Console.WriteLine("Opção inválida. Por favor, insira um número válido.");
                 }
+
+                Console.WriteLine();
                 Console.WriteLine("Pressione qualquer tecla para continuar");
                 Console.ReadLine();
             }
@@ -111,7 +117,7 @@
 
             Queue<string> fila = new();
             fila.Enqueue(pontoInicial);
-
+            Console.WriteLine("Pontos verificados:");
             while (fila.Count > 0)
             {
                 string pontoAtual = fila.Dequeue();
@@ -132,7 +138,8 @@
                 }
             }
 
-            Console.WriteLine("////");
+            Console.WriteLine();
+            Console.WriteLine("Pontos percorridos:");
 
             if (distanciasMinimas.ContainsKey(pontoFinal))
             {

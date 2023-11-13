@@ -1,32 +1,48 @@
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.exe
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.deps.json
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.runtimeconfig.json
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.dll
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.pdb
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.AssemblyInfoInputs.cache
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.AssemblyInfo.cs
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.csproj.CoreCompileInputs.cache
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.dll
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\refint\TrabalhoA3.dll
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.pdb
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.genruntimeconfig.cache
-C:\Users\ujipe\source\repos\TrabalhoA3\obj\Debug\net7.0\ref\TrabalhoA3.dll
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\distancias.txt
-C:\Users\ujipe\source\repos\TrabalhoA3\bin\Debug\net7.0\distancias - Cópia.txt
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.exe
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\distancias - Cópia.txt
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\distancias.txt
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.deps.json
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.runtimeconfig.json
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Debug\net7.0\TrabalhoA3.pdb
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.AssemblyInfoInputs.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.AssemblyInfo.cs
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.csproj.CoreCompileInputs.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\refint\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.pdb
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\TrabalhoA3.genruntimeconfig.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Debug\net7.0\ref\TrabalhoA3.dll
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.exe
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.deps.json
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.runtimeconfig.json
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.dll
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.pdb
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.AssemblyInfoInputs.cache
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.AssemblyInfo.cs
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.csproj.CoreCompileInputs.cache
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.dll
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/refint/TrabalhoA3.dll
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.pdb
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.genruntimeconfig.cache
+C:/Users/ujipe/source/repos/TrabalhoA3/obj/Debug/net7.0/ref/TrabalhoA3.dll
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/distancias.txt
+C:/Users/ujipe/source/repos/TrabalhoA3/bin/Debug/net7.0/distancias - Cópia.txt
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.exe
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/distancias - Cópia.txt
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/distancias.txt
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.deps.json
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.runtimeconfig.json
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Debug/net7.0/TrabalhoA3.pdb
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.AssemblyInfoInputs.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.AssemblyInfo.cs
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.csproj.CoreCompileInputs.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/refint/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.pdb
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/TrabalhoA3.genruntimeconfig.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Debug/net7.0/ref/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/TrabalhoA3
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/distancias.txt
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/TrabalhoA3.deps.json
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/TrabalhoA3.runtimeconfig.json
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Debug/net7.0/TrabalhoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.csproj.AssemblyReference.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.AssemblyInfoInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.AssemblyInfo.cs
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.csproj.CoreCompileInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/refint/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/TrabalhoA3.genruntimeconfig.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Debug/net7.0/ref/TrabalhoA3.dll
