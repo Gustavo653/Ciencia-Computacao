@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/ProjetoA3.csproj",
+      "projectUniqueName": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/ProjetoA3.csproj",
       "projectName": "ProjetoA3",
-      "projectPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/ProjetoA3.csproj",
+      "projectPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/ProjetoA3.csproj",
       "packagesPath": "/home/gustavo/.nuget/packages/",
-      "outputPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/",
+      "outputPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/gustavo/.nuget/NuGet/NuGet.Config"
