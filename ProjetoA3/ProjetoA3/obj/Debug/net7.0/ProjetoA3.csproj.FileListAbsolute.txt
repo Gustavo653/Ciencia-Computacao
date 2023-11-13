@@ -1,0 +1,15 @@
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/bin/Debug/net7.0/ProjetoA3
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/bin/Debug/net7.0/ProjetoA3.deps.json
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/bin/Debug/net7.0/ProjetoA3.runtimeconfig.json
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/bin/Debug/net7.0/ProjetoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/bin/Debug/net7.0/ProjetoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.csproj.AssemblyReference.cache
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.AssemblyInfoInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.AssemblyInfo.cs
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.csproj.CoreCompileInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/refint/ProjetoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ProjetoA3.genruntimeconfig.cache
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3/ProjetoA3/obj/Debug/net7.0/ref/ProjetoA3.dll

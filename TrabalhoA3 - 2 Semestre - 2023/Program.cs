@@ -7,6 +7,12 @@
             List<Distancia> distancias = LerDistanciasDoArquivo("distancias.txt");
             while (true)
             {
+
+                if (Console.ReadLine() == " ")
+                {
+                    
+                }
+                
                 Console.Clear();
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1) Calcular a distância entre dois pontos e desenhar o mapa");
