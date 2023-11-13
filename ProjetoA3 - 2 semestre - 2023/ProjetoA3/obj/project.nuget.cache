@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "LWgqrG5d6iUkRPvm5pFuf12PEiFwzWtxG8MILxVTvqo5qJAer6DqB2BJQJ+MlnOZ9lYqTEclHs7E4PzJA2oCzA==",
+  "dgSpecHash": "j1nbOj9nmpmkGD8pKHYI7aOWxbOAAwsAqEh+Ix5g8EDNOfEIeTiv4H9eUUpv6W+9S7haCEI2fzUPXmCp/rtOrA==",
   "success": true,
   "projectFilePath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/ProjetoA3.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/home/gustavo/.nuget/packages/microsoft.netcore.app.runtime.linux-x64/7.0.13/microsoft.netcore.app.runtime.linux-x64.7.0.13.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/microsoft.aspnetcore.app.runtime.linux-x64/7.0.13/microsoft.aspnetcore.app.runtime.linux-x64.7.0.13.nupkg.sha512",
+    "/home/gustavo/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.13/microsoft.netcore.app.host.linux-x64.7.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

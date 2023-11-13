@@ -1,199 +1,398 @@
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\TrabalhoA3.exe
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\distancias - Cópia.txt
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\distancias.txt
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\TrabalhoA3.deps.json
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\TrabalhoA3.runtimeconfig.json
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\TrabalhoA3.pdb
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.CSharp.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.Core.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.VisualBasic.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.Win32.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.Win32.Registry.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.AppContext.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Buffers.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Collections.Concurrent.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Collections.Immutable.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Collections.NonGeneric.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Collections.Specialized.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Collections.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.Annotations.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.DataAnnotations.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.EventBasedAsync.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.TypeConverter.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ComponentModel.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Configuration.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Console.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Core.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Data.Common.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Data.DataSetExtensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Data.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.Contracts.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.Debug.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.DiagnosticSource.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.FileVersionInfo.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.Process.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.StackTrace.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.TextWriterTraceListener.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.Tools.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.TraceSource.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Diagnostics.Tracing.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Drawing.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Drawing.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Dynamic.Runtime.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Formats.Asn1.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Formats.Tar.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Globalization.Calendars.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Globalization.Extensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Globalization.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Compression.Brotli.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Compression.FileSystem.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Compression.ZipFile.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Compression.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.FileSystem.AccessControl.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.FileSystem.DriveInfo.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.FileSystem.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.FileSystem.Watcher.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.FileSystem.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.IsolatedStorage.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.MemoryMappedFiles.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Pipes.AccessControl.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Pipes.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.UnmanagedMemoryStream.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Linq.Expressions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Linq.Parallel.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Linq.Queryable.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Linq.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Memory.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Http.Json.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Http.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.HttpListener.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Mail.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.NameResolution.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.NetworkInformation.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Ping.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Quic.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Requests.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Security.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.ServicePoint.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.Sockets.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.WebClient.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.WebHeaderCollection.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.WebProxy.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.WebSockets.Client.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.WebSockets.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Net.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Numerics.Vectors.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Numerics.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ObjectModel.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Private.CoreLib.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Private.DataContractSerialization.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Private.Uri.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Private.Xml.Linq.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Private.Xml.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.DispatchProxy.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Emit.ILGeneration.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Emit.Lightweight.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Emit.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Extensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Metadata.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.TypeExtensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Reflection.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Resources.Reader.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Resources.ResourceManager.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Resources.Writer.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.Unsafe.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.CompilerServices.VisualC.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Extensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Handles.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.JavaScript.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.RuntimeInformation.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.InteropServices.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Intrinsics.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Loader.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Numerics.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Formatters.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Json.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Serialization.Xml.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.Serialization.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Runtime.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.AccessControl.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Claims.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.Algorithms.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.Cng.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.Csp.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.Encoding.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.OpenSsl.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.Primitives.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.X509Certificates.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Cryptography.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Principal.Windows.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.Principal.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.SecureString.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Security.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ServiceModel.Web.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ServiceProcess.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.Encoding.CodePages.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.Encoding.Extensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.Encoding.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.Encodings.Web.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.Json.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Text.RegularExpressions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Channels.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Overlapped.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Tasks.Dataflow.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Tasks.Extensions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Tasks.Parallel.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Tasks.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Thread.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.ThreadPool.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.Timer.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Threading.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Transactions.Local.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Transactions.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.ValueTuple.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Web.HttpUtility.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Web.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Windows.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.Linq.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.ReaderWriter.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.Serialization.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.XDocument.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.XPath.XDocument.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.XPath.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.XmlDocument.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.XmlSerializer.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.Xml.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\WindowsBase.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\mscorlib.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\netstandard.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\Microsoft.DiaSymReader.Native.amd64.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\System.IO.Compression.Native.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\clretwrc.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\clrgc.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\clrjit.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\coreclr.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\createdump.exe
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\hostfxr.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\hostpolicy.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\mscordaccore.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\mscordaccore_amd64_amd64_7.0.1323.51816.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\mscordbi.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\mscorrc.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\win-x64\msquic.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.AssemblyInfoInputs.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.AssemblyInfo.cs
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.csproj.CoreCompileInputs.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.csproj.CopyComplete
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\refint\TrabalhoA3.dll
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.pdb
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\TrabalhoA3.genruntimeconfig.cache
-C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\obj\Release\net7.0\win-x64\ref\TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/TrabalhoA3.exe
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/distancias - Cópia.txt
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/distancias.txt
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/TrabalhoA3.deps.json
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/TrabalhoA3.runtimeconfig.json
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/TrabalhoA3.pdb
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.CSharp.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.VisualBasic.Core.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.VisualBasic.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.Win32.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.Win32.Registry.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.AppContext.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Buffers.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Collections.Concurrent.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Collections.Immutable.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Collections.NonGeneric.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Collections.Specialized.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Collections.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.Annotations.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.DataAnnotations.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.TypeConverter.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ComponentModel.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Configuration.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Console.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Core.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Data.Common.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Data.DataSetExtensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Data.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.Contracts.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.Debug.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.Process.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.StackTrace.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.Tools.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.TraceSource.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Diagnostics.Tracing.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Drawing.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Drawing.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Dynamic.Runtime.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Formats.Asn1.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Formats.Tar.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Globalization.Calendars.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Globalization.Extensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Globalization.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Compression.Brotli.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Compression.FileSystem.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Compression.ZipFile.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Compression.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.FileSystem.AccessControl.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.FileSystem.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.FileSystem.Watcher.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.FileSystem.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.IsolatedStorage.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.MemoryMappedFiles.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Pipes.AccessControl.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Pipes.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Linq.Expressions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Linq.Parallel.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Linq.Queryable.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Linq.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Memory.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Http.Json.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Http.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.HttpListener.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Mail.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.NameResolution.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.NetworkInformation.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Ping.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Quic.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Requests.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Security.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.ServicePoint.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.Sockets.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.WebClient.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.WebHeaderCollection.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.WebProxy.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.WebSockets.Client.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.WebSockets.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Net.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Numerics.Vectors.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Numerics.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ObjectModel.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Private.CoreLib.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Private.DataContractSerialization.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Private.Uri.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Private.Xml.Linq.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Private.Xml.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.DispatchProxy.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Emit.Lightweight.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Emit.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Extensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Metadata.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.TypeExtensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Reflection.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Resources.Reader.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Resources.ResourceManager.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Resources.Writer.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Extensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Handles.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Intrinsics.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Loader.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Numerics.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Formatters.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Json.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Xml.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.Serialization.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Runtime.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.AccessControl.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Claims.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.Algorithms.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.Cng.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.Csp.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.Encoding.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.Primitives.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Cryptography.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Principal.Windows.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.Principal.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.SecureString.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Security.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ServiceModel.Web.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ServiceProcess.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.Encoding.CodePages.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.Encoding.Extensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.Encoding.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.Encodings.Web.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.Json.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Text.RegularExpressions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Channels.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Overlapped.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Tasks.Dataflow.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Tasks.Extensions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Tasks.Parallel.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Tasks.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Thread.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.ThreadPool.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.Timer.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Threading.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Transactions.Local.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Transactions.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.ValueTuple.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Web.HttpUtility.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Web.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Windows.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.Linq.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.ReaderWriter.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.Serialization.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.XDocument.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.XPath.XDocument.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.XPath.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.XmlDocument.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.XmlSerializer.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.Xml.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/WindowsBase.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/mscorlib.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/netstandard.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/System.IO.Compression.Native.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/clretwrc.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/clrgc.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/clrjit.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/coreclr.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/createdump.exe
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/hostfxr.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/hostpolicy.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/mscordaccore.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/mscordaccore_amd64_amd64_7.0.1323.51816.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/mscordbi.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/mscorrc.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/bin/Release/net7.0/win-x64/msquic.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.AssemblyInfoInputs.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.AssemblyInfo.cs
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.csproj.CoreCompileInputs.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.csproj.CopyComplete
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/refint/TrabalhoA3.dll
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.pdb
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/TrabalhoA3.genruntimeconfig.cache
+C:/Users/ujipe/OneDrive/Unisociesc/TrabalhoA3/obj/Release/net7.0/win-x64/ref/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/TrabalhoA3.exe
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/distancias.txt
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/TrabalhoA3.deps.json
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/TrabalhoA3.runtimeconfig.json
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/TrabalhoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.CSharp.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.VisualBasic.Core.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.VisualBasic.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.Win32.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.Win32.Registry.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.AppContext.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Buffers.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Collections.Concurrent.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Collections.Immutable.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Collections.NonGeneric.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Collections.Specialized.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Collections.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.Annotations.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.DataAnnotations.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.EventBasedAsync.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.TypeConverter.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ComponentModel.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Configuration.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Console.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Core.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Data.Common.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Data.DataSetExtensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Data.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.Contracts.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.Debug.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.DiagnosticSource.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.FileVersionInfo.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.Process.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.StackTrace.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.TextWriterTraceListener.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.Tools.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.TraceSource.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Diagnostics.Tracing.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Drawing.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Drawing.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Dynamic.Runtime.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Formats.Asn1.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Formats.Tar.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Globalization.Calendars.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Globalization.Extensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Globalization.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Compression.Brotli.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Compression.FileSystem.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Compression.ZipFile.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Compression.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.FileSystem.AccessControl.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.FileSystem.DriveInfo.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.FileSystem.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.FileSystem.Watcher.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.FileSystem.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.IsolatedStorage.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.MemoryMappedFiles.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Pipes.AccessControl.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Pipes.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.UnmanagedMemoryStream.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Linq.Expressions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Linq.Parallel.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Linq.Queryable.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Linq.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Memory.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Http.Json.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Http.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.HttpListener.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Mail.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.NameResolution.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.NetworkInformation.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Ping.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Quic.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Requests.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Security.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.ServicePoint.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.Sockets.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.WebClient.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.WebHeaderCollection.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.WebProxy.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.WebSockets.Client.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.WebSockets.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Net.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Numerics.Vectors.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Numerics.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ObjectModel.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Private.CoreLib.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Private.DataContractSerialization.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Private.Uri.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Private.Xml.Linq.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Private.Xml.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.DispatchProxy.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Emit.ILGeneration.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Emit.Lightweight.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Emit.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Extensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Metadata.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.TypeExtensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Reflection.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Resources.Reader.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Resources.ResourceManager.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Resources.Writer.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.CompilerServices.Unsafe.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.CompilerServices.VisualC.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Extensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Handles.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.JavaScript.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.RuntimeInformation.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.InteropServices.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Intrinsics.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Loader.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Numerics.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Formatters.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Json.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Serialization.Xml.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.Serialization.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Runtime.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.AccessControl.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Claims.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.Algorithms.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.Cng.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.Csp.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.Encoding.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.OpenSsl.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.Primitives.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.X509Certificates.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Cryptography.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Principal.Windows.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.Principal.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.SecureString.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Security.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ServiceModel.Web.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ServiceProcess.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.Encoding.CodePages.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.Encoding.Extensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.Encoding.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.Encodings.Web.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.Json.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Text.RegularExpressions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Channels.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Overlapped.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Tasks.Dataflow.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Tasks.Extensions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Tasks.Parallel.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Tasks.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Thread.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.ThreadPool.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.Timer.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Threading.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Transactions.Local.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Transactions.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.ValueTuple.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Web.HttpUtility.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Web.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Windows.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.Linq.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.ReaderWriter.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.Serialization.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.XDocument.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.XPath.XDocument.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.XPath.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.XmlDocument.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.XmlSerializer.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.Xml.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/WindowsBase.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/mscorlib.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/netstandard.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/Microsoft.DiaSymReader.Native.amd64.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/System.IO.Compression.Native.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/clretwrc.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/clrgc.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/clrjit.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/coreclr.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/createdump.exe
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/hostfxr.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/hostpolicy.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/mscordaccore.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/mscordaccore_amd64_amd64_7.0.1323.51816.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/mscordbi.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/mscorrc.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/bin/Release/net7.0/win-x64/msquic.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.csproj.AssemblyReference.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.GeneratedMSBuildEditorConfig.editorconfig
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.AssemblyInfoInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.AssemblyInfo.cs
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.csproj.CoreCompileInputs.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.csproj.CopyComplete
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/refint/TrabalhoA3.dll
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/TrabalhoA3.genruntimeconfig.cache
+/home/gustavo/Documentos/Ciencia-Computacao/TrabalhoA3 - 2 Semestre - 2023/obj/Release/net7.0/win-x64/ref/TrabalhoA3.dll

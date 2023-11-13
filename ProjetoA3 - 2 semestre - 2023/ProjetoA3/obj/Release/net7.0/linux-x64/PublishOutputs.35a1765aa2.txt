@@ -1,0 +1,2 @@
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/bin/Release/net7.0/linux-x64/publish/ProjetoA3.pdb
+/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/bin/Release/net7.0/linux-x64/publish/ProjetoA3
