@@ -7,7 +7,7 @@ public class Interpreter
     public void Interpret(string input)
     {
         Console.WriteLine(automaton.Accept(input) ? 
-                          $"A string {input} foi aceita!" : 
-                          $"A string {input} foi rejeitada!");
+                          $"A entrada {input} foi aceita!" : 
+                          $"A entrada {input} foi rejeitada!");
     }
 }
