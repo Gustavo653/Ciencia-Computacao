@@ -1,0 +1,4 @@
+C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\publish\win-x64\TrabalhoA3.pdb
+C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\publish\win-x64\distancias - Cópia.txt
+C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\publish\win-x64\distancias.txt
+C:\Users\ujipe\OneDrive\Unisociesc\TrabalhoA3\bin\Release\net7.0\publish\win-x64\TrabalhoA3.exe
