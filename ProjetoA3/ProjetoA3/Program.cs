@@ -2,9 +2,8 @@
 
 Console.WriteLine("Hello, World!");
 
-Interpreter interpreter = new Interpreter();
-interpreter.Interpret("f12.34");
 while (true)
 {
+    Interpreter interpreter = new Interpreter();
     interpreter.Interpret(Console.ReadLine() ?? "");
 }

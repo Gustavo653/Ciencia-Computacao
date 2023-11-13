@@ -6,11 +6,8 @@ public class Interpreter
 
     public void Interpret(string input)
     {
-        foreach (var t in input)
-        {
-            automaton.Next(t);
-        }
-
-        Console.WriteLine(automaton.Accept() ? $"A string {input} foi aceita!" : $"A string {input} foi rejeitada!");
+        Console.WriteLine(automaton.Accept(input) ? 
+                          $"A string {input} foi aceita!" : 
+                          $"A string {input} foi rejeitada!");
     }
 }

@@ -2,37 +2,44 @@ namespace ProjetoA3;
 
 public class Automaton
 {
-    private State state = State.START;
+    private State state = State.Start;
 
-    public State Next(char c)
+    public bool Accept(string input)
     {
-        State nextState = State.ERROR;
+        foreach (var character in input)
+        {
+            state = Next(character);
+            if (state == State.Error)
+                return false;
+        }
+
+        return true;
+    }
+
+    private State Next(char c)
+    {
+        State nextState = State.Error;
         switch (state)
         {
-            case State.START:
+            case State.Start:
                 if (Char.IsLetter(c))
-                    nextState = State.ID;
+                    nextState = State.Id;
                 else if (c == '0')
-                    nextState = State.NUM;
+                    nextState = State.Num;
                 else
-                    nextState = State.ERROR;
+                    nextState = State.Error;
                 break;
-            case State.ID:
-                nextState = Char.IsLetterOrDigit(c) ? State.ID : State.ERROR;
+            case State.Id:
+                nextState = Char.IsLetterOrDigit(c) ? State.Id : State.Error;
                 break;
-            case State.NUM:
-                nextState = Char.IsDigit(c) ? State.NUM : State.ERROR;
+            case State.Num:
+                nextState = Char.IsDigit(c) ? State.Num : State.Error;
                 break;
-            case State.ERROR:
+            case State.Error:
                 break;
         }
 
         state = nextState;
         return state;
-    }
-
-    public bool Accept()
-    {
-        return state == State.START;
     }
 }
