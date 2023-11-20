@@ -7,12 +7,6 @@
             List<Distancia> distancias = LerDistanciasDoArquivo("distancias.txt");
             while (true)
             {
-
-                if (Console.ReadLine() == " ")
-                {
-                    
-                }
-                
                 Console.Clear();
                 Console.WriteLine("Menu:");
                 Console.WriteLine("1) Calcular a distância entre dois pontos e desenhar o mapa");
@@ -130,24 +124,20 @@
 
                 foreach (var distancia in distancias)
                 {
-                    if (distancia.PontoInicial == pontoAtual)
-                    {
-                        string proximoPonto = distancia.PontoFinal;
-                        if (!distanciasMinimas.ContainsKey(proximoPonto))
-                        {
-                            distanciasMinimas[proximoPonto] = distancia;
-                            distanciaTotal[proximoPonto] = distanciaTotal[pontoAtual] + distancia.DistanciaPontos;
-                            fila.Enqueue(proximoPonto);
-                            Console.WriteLine($"Ponto atual: {pontoAtual}, Próximo ponto: {proximoPonto}, Distância: {distancia.DistanciaPontos}, Distância total: {distanciaTotal[proximoPonto]}");
-                        }
-                    }
+                    if (distancia.PontoInicial != pontoAtual) continue;
+                    string proximoPonto = distancia.PontoFinal;
+                    if (distanciasMinimas.ContainsKey(proximoPonto)) continue;
+                    distanciasMinimas[proximoPonto] = distancia;
+                    distanciaTotal[proximoPonto] = distanciaTotal[pontoAtual] + distancia.DistanciaPontos;
+                    fila.Enqueue(proximoPonto);
+                    Console.WriteLine($"Ponto atual: {pontoAtual}, Próximo ponto: {proximoPonto}, Distância: {distancia.DistanciaPontos}, Distância total: {distanciaTotal[proximoPonto]}");
                 }
             }
 
             Console.WriteLine();
             Console.WriteLine("Pontos percorridos:");
 
-            if (distanciasMinimas.ContainsKey(pontoFinal))
+            if (!distanciasMinimas.ContainsKey(pontoFinal)) return null;
             {
                 string ponto = pontoFinal;
                 List<Distancia> caminho = new();
@@ -166,8 +156,6 @@
 
                 return caminho.Last();
             }
-
-            return null;
         }
     }
 }
