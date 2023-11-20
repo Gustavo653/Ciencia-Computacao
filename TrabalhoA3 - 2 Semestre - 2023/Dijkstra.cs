@@ -35,8 +35,7 @@ public class Dijkstra
                 if (novaDistancia >= menorCaminho[distancia.PontoFinal]) continue;
                 menorCaminho[distancia.PontoFinal] = novaDistancia;
                 caminhoAnterior[distancia.PontoFinal] = pontoMenorDistancia;
-                custoTotalCaminhos[distancia.PontoFinal] =
-                    custoTotalCaminhos[pontoMenorDistancia] + distancia.DistanciaPontos;
+                custoTotalCaminhos[distancia.PontoFinal] = custoTotalCaminhos[pontoMenorDistancia] + distancia.DistanciaPontos;
             }
         }
 
@@ -63,8 +62,7 @@ public class Dijkstra
         return distanciaEncontrada;
     }
 
-    private static IEnumerable<string> ConstruirCaminho(IReadOnlyDictionary<string, string> caminhoAnterior,
-        string pontoInicial, string pontoFinal)
+    private static IEnumerable<string> ConstruirCaminho(IReadOnlyDictionary<string, string> caminhoAnterior, string pontoInicial, string pontoFinal)
     {
         List<string> caminho = new List<string>();
         string pontoAtual = pontoFinal;

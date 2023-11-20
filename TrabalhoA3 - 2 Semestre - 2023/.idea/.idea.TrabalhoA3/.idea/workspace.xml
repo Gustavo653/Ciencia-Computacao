@@ -8,14 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51434467-b0d0-42b8-839b-00ddd8a5a031" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrabalhoA3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrabalhoA3/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Dijkstra.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dijkstra.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/distancias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/distancias.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/distancias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/distancias.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/TrabalhoA3.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/TrabalhoA3.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699913310301</updated>
       <workItem from="1699913312449" duration="2395000" />
-      <workItem from="1700519168418" duration="2579000" />
+      <workItem from="1700519168418" duration="2944000" />
     </task>
     <servers />
   </component>
