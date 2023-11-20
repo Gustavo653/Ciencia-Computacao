@@ -30,39 +30,40 @@
                             var distancia = EncontrarDistancia(distancias, ponto1!, ponto2!);
                             Console.WriteLine();
                             if (distancia != null)
-                                Console.WriteLine("A distância entre {0} e {1} é {2}", ponto1, ponto2, distancia.DistanciaPontos);
+                                Console.WriteLine("A distância entre {0} e {1} é {2}", ponto1, ponto2,
+                                    distancia.DistanciaPontos);
                             else
                                 Console.WriteLine("Pontos não encontrados.");
 
                             break;
 
                         case 2:
-                            {
-                                Stack<string> pilha = new();
+                        {
+                            Stack<string> pilha = new();
 
-                                foreach (var dist in distancias)
-                                    pilha.Push(dist.PontoInicial);
+                            foreach (var dist in distancias)
+                                pilha.Push(dist.PontoInicial);
 
-                                Console.WriteLine("Pilha:");
-                                while (pilha.Count > 0)
-                                    Console.WriteLine(pilha.Pop());
+                            Console.WriteLine("Pilha:");
+                            while (pilha.Count > 0)
+                                Console.WriteLine(pilha.Pop());
 
-                                break;
-                            }
+                            break;
+                        }
 
                         case 3:
-                            {
-                                Queue<string> fila = new();
+                        {
+                            Queue<string> fila = new();
 
-                                foreach (var dist in distancias)
-                                    fila.Enqueue(dist.PontoInicial);
+                            foreach (var dist in distancias)
+                                fila.Enqueue(dist.PontoInicial);
 
-                                Console.WriteLine("Fila:");
-                                while (fila.Count > 0)
-                                    Console.WriteLine(fila.Dequeue());
+                            Console.WriteLine("Fila:");
+                            while (fila.Count > 0)
+                                Console.WriteLine(fila.Dequeue());
 
-                                break;
-                            }
+                            break;
+                        }
 
                         case 4:
                             Environment.Exit(0);
@@ -87,75 +88,75 @@
         private static List<Distancia> LerDistanciasDoArquivo(string nomeArquivo)
         {
             List<Distancia> distancias = new();
-            using (StreamReader reader = new(nomeArquivo))
+            using StreamReader reader = new(nomeArquivo);
+            while (!reader.EndOfStream)
             {
-                while (!reader.EndOfStream)
+                string linha = reader.ReadLine()!;
+                string[] valores = linha.Split(';');
+
+                Distancia distancia = new()
                 {
-                    string linha = reader.ReadLine()!;
-                    string[] valores = linha.Split(';');
+                    PontoInicial = valores[0],
+                    PontoFinal = valores[1],
+                    DistanciaPontos = int.Parse(valores[2])
+                };
 
-                    Distancia distancia = new()
-                    {
-                        PontoInicial = valores[0],
-                        PontoFinal = valores[1],
-                        DistanciaPontos = int.Parse(valores[2])
-                    };
-
-                    distancias.Add(distancia);
-                }
+                distancias.Add(distancia);
             }
+
             return distancias;
         }
 
         private static Distancia? EncontrarDistancia(List<Distancia> distancias, string pontoInicial, string pontoFinal)
         {
-            Dictionary<string, Distancia?> distanciasMinimas = new();
-            Dictionary<string, int> distanciaTotal = new();
+            Dictionary<string, int> menorCaminho = new Dictionary<string, int>();
 
-            distanciasMinimas[pontoInicial] = null;
-            distanciaTotal[pontoInicial] = 0;
-
-            Queue<string> fila = new();
-            fila.Enqueue(pontoInicial);
-            Console.WriteLine("Pontos verificados:");
-            while (fila.Count > 0)
+            foreach (var ponto in distancias.Select(d => d.PontoInicial)
+                                                 .Union(distancias.Select(d => d.PontoFinal))
+                                                 .Distinct())
             {
-                string pontoAtual = fila.Dequeue();
-
-                foreach (var distancia in distancias)
-                {
-                    if (distancia.PontoInicial != pontoAtual) continue;
-                    string proximoPonto = distancia.PontoFinal;
-                    if (distanciasMinimas.ContainsKey(proximoPonto)) continue;
-                    distanciasMinimas[proximoPonto] = distancia;
-                    distanciaTotal[proximoPonto] = distanciaTotal[pontoAtual] + distancia.DistanciaPontos;
-                    fila.Enqueue(proximoPonto);
-                    Console.WriteLine($"Ponto atual: {pontoAtual}, Próximo ponto: {proximoPonto}, Distância: {distancia.DistanciaPontos}, Distância total: {distanciaTotal[proximoPonto]}");
-                }
+                menorCaminho[ponto] = (ponto == pontoInicial) ? 0 : int.MaxValue;
             }
 
-            Console.WriteLine();
-            Console.WriteLine("Pontos percorridos:");
-
-            if (!distanciasMinimas.ContainsKey(pontoFinal)) return null;
+            while (true)
             {
-                string ponto = pontoFinal;
-                List<Distancia> caminho = new();
-                while (ponto != pontoInicial)
+                string? pontoMenorDistancia = null;
+                int menorDistancia = int.MaxValue;
+
+                foreach (var ponto in menorCaminho.Where(pair => pair.Value < int.MaxValue))
                 {
-                    var distancia = distanciasMinimas[ponto];
-                    caminho.Insert(0, distancia!);
-                    ponto = distancia!.PontoInicial;
+                    if (ponto.Value >= menorDistancia) continue;
+                    pontoMenorDistancia = ponto.Key;
+                    menorDistancia = ponto.Value;
                 }
 
-                var distanciaTotalPercorrida = distanciaTotal[pontoFinal];
-                caminho.Last().DistanciaPontos = distanciaTotalPercorrida;
+                if (pontoMenorDistancia == null) break;
 
-                foreach (var passo in caminho)
-                    Console.WriteLine($"Ponto Inicial: {passo.PontoInicial}, Ponto Final: {passo.PontoFinal}, Distância: {passo.DistanciaPontos}");
+                if (pontoMenorDistancia == pontoFinal) break;
 
-                return caminho.Last();
+                foreach (var distancia in distancias.Where(d => d.PontoInicial == pontoMenorDistancia))
+                {
+                    int novaDistancia = menorCaminho[pontoMenorDistancia] + distancia.DistanciaPontos;
+                    if (novaDistancia < menorCaminho[distancia.PontoFinal])
+                    {
+                        menorCaminho[distancia.PontoFinal] = novaDistancia;
+                    }
+                }
+
+                menorCaminho[pontoMenorDistancia] = int.MaxValue;
             }
+
+            if (menorCaminho.TryGetValue(pontoFinal, out int value) && value < int.MaxValue)
+            {
+                return new Distancia
+                {
+                    PontoInicial = pontoInicial,
+                    PontoFinal = pontoFinal,
+                    DistanciaPontos = menorCaminho[pontoFinal]
+                };
+            }
+            
+            return null;
         }
     }
 }
