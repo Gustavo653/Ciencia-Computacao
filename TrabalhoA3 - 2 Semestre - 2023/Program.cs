@@ -4,7 +4,7 @@
     {
         static void Main()
         {
-            List<Distancia> distancias = LerDistanciasDoArquivo("distancias.txt");
+            List<Distancia> distancias = Utils.LerDistanciasDoArquivo("distancias.txt");
             while (true)
             {
                 Console.Clear();
@@ -27,7 +27,7 @@
                             var ponto2 = Console.ReadLine();
                             Console.WriteLine();
 
-                            var distancia = EncontrarDistancia(distancias, ponto1!, ponto2!);
+                            var distancia = Dijkstra.EncontrarDistancia(distancias, ponto1!, ponto2!);
                             Console.WriteLine();
                             if (distancia != null)
                                 Console.WriteLine("A distância entre {0} e {1} é {2}", ponto1, ponto2,
@@ -83,80 +83,6 @@
                 Console.WriteLine("Pressione qualquer tecla para continuar");
                 Console.ReadLine();
             }
-        }
-
-        private static List<Distancia> LerDistanciasDoArquivo(string nomeArquivo)
-        {
-            List<Distancia> distancias = new();
-            using StreamReader reader = new(nomeArquivo);
-            while (!reader.EndOfStream)
-            {
-                string linha = reader.ReadLine()!;
-                string[] valores = linha.Split(';');
-
-                Distancia distancia = new()
-                {
-                    PontoInicial = valores[0],
-                    PontoFinal = valores[1],
-                    DistanciaPontos = int.Parse(valores[2])
-                };
-
-                distancias.Add(distancia);
-            }
-
-            return distancias;
-        }
-
-        private static Distancia? EncontrarDistancia(List<Distancia> distancias, string pontoInicial, string pontoFinal)
-        {
-            Dictionary<string, int> menorCaminho = new Dictionary<string, int>();
-
-            foreach (var ponto in distancias.Select(d => d.PontoInicial)
-                                                 .Union(distancias.Select(d => d.PontoFinal))
-                                                 .Distinct())
-            {
-                menorCaminho[ponto] = (ponto == pontoInicial) ? 0 : int.MaxValue;
-            }
-
-            while (true)
-            {
-                string? pontoMenorDistancia = null;
-                int menorDistancia = int.MaxValue;
-
-                foreach (var ponto in menorCaminho.Where(pair => pair.Value < int.MaxValue))
-                {
-                    if (ponto.Value >= menorDistancia) continue;
-                    pontoMenorDistancia = ponto.Key;
-                    menorDistancia = ponto.Value;
-                }
-
-                if (pontoMenorDistancia == null) break;
-
-                if (pontoMenorDistancia == pontoFinal) break;
-
-                foreach (var distancia in distancias.Where(d => d.PontoInicial == pontoMenorDistancia))
-                {
-                    int novaDistancia = menorCaminho[pontoMenorDistancia] + distancia.DistanciaPontos;
-                    if (novaDistancia < menorCaminho[distancia.PontoFinal])
-                    {
-                        menorCaminho[distancia.PontoFinal] = novaDistancia;
-                    }
-                }
-
-                menorCaminho[pontoMenorDistancia] = int.MaxValue;
-            }
-
-            if (menorCaminho.TryGetValue(pontoFinal, out int value) && value < int.MaxValue)
-            {
-                return new Distancia
-                {
-                    PontoInicial = pontoInicial,
-                    PontoFinal = pontoFinal,
-                    DistanciaPontos = menorCaminho[pontoFinal]
-                };
-            }
-            
-            return null;
         }
     }
 }
