@@ -1,79 +1,109 @@
 namespace TrabalhoA3;
 
-public class Dijkstra
+public static class Dijkstra
 {
-    public static Distancia? EncontrarDistancia(IReadOnlyCollection<Distancia> distancias, string pontoInicial,
-        string pontoFinal)
+    public static Distancia? EncontrarDistancia(List<Distancia> distancias, string pontoInicial, string pontoFinal)
     {
-        Dictionary<string, int> menorCaminho = new Dictionary<string, int>();
-        Dictionary<string, string> caminhoAnterior = new Dictionary<string, string>();
-        Dictionary<string, int> custoTotalCaminhos = new Dictionary<string, int>();
-        HashSet<string> visitados = new HashSet<string>();
+        var grafo = new Dictionary<string, List<Distancia>>();
 
-        foreach (var ponto in distancias.Select(d => d.PontoInicial)
-                     .Union(distancias.Select(d => d.PontoFinal))
-                     .Distinct())
+        foreach (var item in distancias)
         {
-            menorCaminho[ponto] = (ponto == pontoInicial) ? 0 : int.MaxValue;
-            custoTotalCaminhos[ponto] = 0;
+            if (!grafo.ContainsKey(item.PontoInicial))
+                grafo[item.PontoInicial] = new List<Distancia>();
+
+            grafo[item.PontoInicial].Add(item);
         }
 
-        while (menorCaminho.Any(pair => pair.Value < int.MaxValue))
+        var (caminho, distanciaTotal) = LogicaDijkstra(grafo, pontoInicial, pontoFinal);
+
+        if (caminho.Count == 0)
+            return null;
+
+        Console.WriteLine($"Caminho verificado: {string.Join(" -> ", caminho)}");
+        Console.WriteLine($"Caminho percorrido: {ObterCaminhoPercorrido(distancias, caminho)}");
+        Console.WriteLine($"Distância total: {distanciaTotal}");
+
+        var distancia = distancias.FirstOrDefault(d =>
+            string.Equals(d.PontoInicial, pontoInicial, StringComparison.OrdinalIgnoreCase) &&
+            string.Equals(d.PontoFinal, pontoFinal, StringComparison.OrdinalIgnoreCase));
+
+        return distancia;
+    }
+
+    private static string ObterCaminhoPercorrido(IReadOnlyCollection<Distancia> distancias, IReadOnlyList<string> caminho)
+    {
+        var caminhoPercorrido = new List<string>();
+        for (int i = 0; i < caminho.Count - 1; i++)
         {
-            string pontoMenorDistancia = menorCaminho
-                .Where(pair => !visitados.Contains(pair.Key))
-                .OrderBy(pair => pair.Value)
-                .FirstOrDefault().Key;
+            var pontoInicial = caminho[i];
+            var pontoFinal = caminho[i + 1];
 
-            if (pontoMenorDistancia == null) break;
+            var distancia = distancias.FirstOrDefault(d =>
+                string.Equals(d.PontoInicial, pontoInicial, StringComparison.OrdinalIgnoreCase) &&
+                string.Equals(d.PontoFinal, pontoFinal, StringComparison.OrdinalIgnoreCase));
 
-            visitados.Add(pontoMenorDistancia);
+            if (distancia != null)
+                caminhoPercorrido.Add($"{pontoInicial} -> {pontoFinal} ({distancia.DistanciaPontos})");
+        }
 
-            foreach (var distancia in distancias.Where(d => d.PontoInicial == pontoMenorDistancia))
+        return string.Join(", ", caminhoPercorrido);
+    }
+
+    private static (List<string> caminho, int distanciaTotal) LogicaDijkstra(Dictionary<string, List<Distancia>> grafo, string pontoInicial, string pontoFinal)
+    {
+        var distancia = new Dictionary<string, int>();
+        var anterior = new Dictionary<string, string?>();
+        var naoVisitados = new List<string>();
+
+        foreach (var ponto in grafo.Keys)
+        {
+            distancia[ponto] = int.MaxValue;
+            anterior[ponto] = null;
+            naoVisitados.Add(ponto);
+        }
+
+        distancia[pontoInicial] = 0;
+
+        while (naoVisitados.Count > 0)
+        {
+            var pontoAtual = ObterPontoMenorDistancia(distancia, naoVisitados);
+            naoVisitados.Remove(pontoAtual);
+
+            if (pontoAtual == pontoFinal)
             {
-                int novaDistancia = menorCaminho[pontoMenorDistancia] + distancia.DistanciaPontos;
-                if (novaDistancia >= menorCaminho[distancia.PontoFinal]) continue;
-                menorCaminho[distancia.PontoFinal] = novaDistancia;
-                caminhoAnterior[distancia.PontoFinal] = pontoMenorDistancia;
-                custoTotalCaminhos[distancia.PontoFinal] = custoTotalCaminhos[pontoMenorDistancia] + distancia.DistanciaPontos;
+                var caminho = new List<string>();
+                var ponto = pontoFinal;
+
+                while (ponto != null)
+                {
+                    caminho.Insert(0, ponto);
+                    ponto = anterior[ponto];
+                }
+
+                return (caminho, distancia[pontoFinal]);
+            }
+
+            foreach (var vizinho in grafo[pontoAtual])
+            {
+                var distanciaAtualizada = distancia[pontoAtual] + vizinho.DistanciaPontos;
+
+                if (distanciaAtualizada >= distancia[vizinho.PontoFinal]) 
+                    continue;
+                distancia[vizinho.PontoFinal] = distanciaAtualizada;
+                anterior[vizinho.PontoFinal] = pontoAtual;
             }
         }
 
-        if (!menorCaminho.TryGetValue(pontoFinal, out int distanciaFinal) || distanciaFinal >= int.MaxValue)
-            return null;
-        Distancia distanciaEncontrada = new Distancia
-        {
-            PontoInicial = pontoInicial,
-            PontoFinal = pontoFinal,
-            DistanciaPontos = distanciaFinal
-        };
-
-        IEnumerable<string> caminhoOficial = ConstruirCaminho(caminhoAnterior, pontoInicial, pontoFinal);
-
-        Console.WriteLine("Caminho Verificado:");
-        foreach (var caminho in caminhoAnterior)
-        {
-            Console.WriteLine($"{caminho.Value} -> {caminho.Key}, Distância: {custoTotalCaminhos[caminho.Key]}");
-        }
-
-        Console.WriteLine("\nCaminho Percorrido:");
-        Console.WriteLine(string.Join(" -> ", caminhoOficial) + $", Distância: {distanciaFinal}");
-
-        return distanciaEncontrada;
+        return (new List<string>(), 0);
     }
 
-    private static IEnumerable<string> ConstruirCaminho(IReadOnlyDictionary<string, string> caminhoAnterior, string pontoInicial, string pontoFinal)
+    private static string ObterPontoMenorDistancia(IReadOnlyDictionary<string, int> distancia, IReadOnlyCollection<string> naoVisitados)
     {
-        List<string> caminho = new List<string>();
-        string pontoAtual = pontoFinal;
+        var pontoMenorDistancia = naoVisitados.First();
 
-        while (caminhoAnterior.ContainsKey(pontoAtual))
-        {
-            caminho.Insert(0, pontoAtual);
-            pontoAtual = caminhoAnterior[pontoAtual];
-        }
+        foreach (var ponto in naoVisitados.Where(ponto => distancia[ponto] < distancia[pontoMenorDistancia]))
+            pontoMenorDistancia = ponto;
 
-        caminho.Insert(0, pontoInicial);
-        return caminho;
+        return pontoMenorDistancia;
     }
 }

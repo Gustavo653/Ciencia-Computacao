@@ -1,6 +1,6 @@
 namespace TrabalhoA3;
 
-public class Utils
+public static class Utils
 {
     public static List<Distancia> LerDistanciasDoArquivo(string nomeArquivo)
     {

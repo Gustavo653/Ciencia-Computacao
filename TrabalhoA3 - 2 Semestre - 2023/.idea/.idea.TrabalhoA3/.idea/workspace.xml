@@ -8,13 +8,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="51434467-b0d0-42b8-839b-00ddd8a5a031" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.TrabalhoA3/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.TrabalhoA3/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Dijkstra.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Dijkstra.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Distancia.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Distancia.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Utils.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Utils.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/TrabalhoA3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/distancias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/distancias.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/distancias.txt" beforeDir="false" afterPath="$PROJECT_DIR$/distancias.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.dll" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/TrabalhoA3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/ref/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/ref/TrabalhoA3.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/refint/TrabalhoA3.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/refint/TrabalhoA3.dll" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,26 +36,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;rider.external.source.directories&quot;: [
-      &quot;/home/gustavo/.config/JetBrains/Rider2023.2/resharper-host/DecompilerCache&quot;,
-      &quot;/home/gustavo/.config/JetBrains/Rider2023.2/resharper-host/SourcesCache&quot;,
-      &quot;/home/gustavo/.local/share/Symbols/src&quot;
+  "keyToStringList": {
+    "rider.external.source.directories": [
+      "/home/gustavo/.config/JetBrains/Rider2023.2/resharper-host/DecompilerCache",
+      "/home/gustavo/.config/JetBrains/Rider2023.2/resharper-host/SourcesCache",
+      "/home/gustavo/.local/share/Symbols/src"
     ]
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected=".NET Project.TrabalhoA3">
     <configuration name="TrabalhoA3 LINUX-X64" type="DotNetFolderPublish" factoryName="Publish to folder">
       <riderPublish configuration="Release" delete_existing_files="true" platform="Any CPU" produce_single_file="true" runtime="linux-x64" self_contained="true" target_folder="$PROJECT_DIR$/bin/Release/net7.0/linux-x64/publish" target_framework="net7.0" trim_unused_assemblies="true" uuid_high="397764032514837437" uuid_low="-6426665814302299014" />
@@ -94,7 +99,7 @@
       <option name="presentableId" value="Default" />
       <updated>1699913310301</updated>
       <workItem from="1699913312449" duration="2395000" />
-      <workItem from="1700519168418" duration="2944000" />
+      <workItem from="1700519168418" duration="4052000" />
     </task>
     <servers />
   </component>
