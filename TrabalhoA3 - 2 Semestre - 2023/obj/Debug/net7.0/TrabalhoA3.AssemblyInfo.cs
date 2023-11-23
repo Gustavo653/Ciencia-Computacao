@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TrabalhoA3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+45910c15b8ccdcae775112ffcd60502e3aafa9ff")]
 [assembly: System.Reflection.AssemblyProductAttribute("TrabalhoA3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TrabalhoA3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,7 +2,7 @@ namespace TrabalhoA3;
 
 public static class Dijkstra
 {
-    public static Distancia? EncontrarDistancia(List<Distancia> distancias, string pontoInicial, string pontoFinal)
+    public static void EncontrarDistancia(List<Distancia> distancias, string pontoInicial, string pontoFinal)
     {
         var grafo = new Dictionary<string, List<Distancia>>();
 
@@ -17,17 +17,14 @@ public static class Dijkstra
         var (caminho, distanciaTotal) = LogicaDijkstra(grafo, pontoInicial, pontoFinal);
 
         if (caminho.Count == 0)
-            return null;
+        {
+            Console.WriteLine("Nenhum caminho encontrado!");
+            return;
+        }
 
         Console.WriteLine($"Caminho verificado: {string.Join(" -> ", caminho)}");
         Console.WriteLine($"Caminho percorrido: {ObterCaminhoPercorrido(distancias, caminho)}");
         Console.WriteLine($"Distância total: {distanciaTotal}");
-
-        var distancia = distancias.FirstOrDefault(d =>
-            string.Equals(d.PontoInicial, pontoInicial, StringComparison.OrdinalIgnoreCase) &&
-            string.Equals(d.PontoFinal, pontoFinal, StringComparison.OrdinalIgnoreCase));
-
-        return distancia;
     }
 
     private static string ObterCaminhoPercorrido(IReadOnlyCollection<Distancia> distancias, IReadOnlyList<string> caminho)
@@ -87,7 +84,7 @@ public static class Dijkstra
             {
                 var distanciaAtualizada = distancia[pontoAtual] + vizinho.DistanciaPontos;
 
-                if (distanciaAtualizada >= distancia[vizinho.PontoFinal]) 
+                if (distanciaAtualizada >= distancia[vizinho.PontoFinal])
                     continue;
                 distancia[vizinho.PontoFinal] = distanciaAtualizada;
                 anterior[vizinho.PontoFinal] = pontoAtual;

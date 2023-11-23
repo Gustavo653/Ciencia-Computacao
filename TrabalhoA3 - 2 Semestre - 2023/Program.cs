@@ -25,15 +25,8 @@
                             Console.WriteLine();
                             Console.WriteLine("Informe o ponto de destino:");
                             var ponto2 = Console.ReadLine();
-                            Console.WriteLine();
 
-                            var distancia = Dijkstra.EncontrarDistancia(distancias, ponto1!, ponto2!);
-                            Console.WriteLine();
-                            if (distancia != null)
-                                Console.WriteLine("A distância entre {0} e {1} é {2}", ponto1, ponto2,
-                                    distancia.DistanciaPontos);
-                            else
-                                Console.WriteLine("Pontos não encontrados.");
+                            Dijkstra.EncontrarDistancia(distancias, ponto1!, ponto2!);
 
                             break;
 
