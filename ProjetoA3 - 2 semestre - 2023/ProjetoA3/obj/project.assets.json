@@ -1,33 +1,41 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {},
-    "net7.0/linux-x64": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
     "net7.0": []
   },
   "packageFolders": {
-    "/home/gustavo/.nuget/packages/": {}
+    "C:\\Users\\gustavo.silva\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/ProjetoA3.csproj",
+      "projectUniqueName": "C:\\Users\\gustavo.silva\\Documents\\Ciencia-Computacao\\ProjetoA3 - 2 semestre - 2023\\ProjetoA3\\ProjetoA3.csproj",
       "projectName": "ProjetoA3",
-      "projectPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/ProjetoA3.csproj",
-      "packagesPath": "/home/gustavo/.nuget/packages/",
-      "outputPath": "/home/gustavo/Documentos/Ciencia-Computacao/ProjetoA3 - 2 semestre - 2023/ProjetoA3/obj/",
+      "projectPath": "C:\\Users\\gustavo.silva\\Documents\\Ciencia-Computacao\\ProjetoA3 - 2 semestre - 2023\\ProjetoA3\\ProjetoA3.csproj",
+      "packagesPath": "C:\\Users\\gustavo.silva\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gustavo.silva\\Documents\\Ciencia-Computacao\\ProjetoA3 - 2 semestre - 2023\\ProjetoA3\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/gustavo/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\gustavo.silva\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {}
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://pkgs.dev.azure.com/devmyrp/Bibliotecas/_packaging/myrp/nuget/v3/index.json": {}
       },
       "frameworks": {
         "net7.0": {
@@ -55,31 +63,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.AspNetCore.App.Runtime.linux-x64",
-            "version": "[7.0.13, 7.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[7.0.13, 7.0.13]"
-          },
-          {
-            "name": "Microsoft.NETCore.App.Runtime.linux-x64",
-            "version": "[7.0.13, 7.0.13]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib/dotnet/sdk/7.0.113/RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "linux-x64": {
-        "#import": []
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
