@@ -8,11 +8,11 @@
     </PropertyGroup>
 
     <ItemGroup>
-      <None Remove="codigo.txt" />
+      <None Remove="code.txt" />
     </ItemGroup>
 
     <ItemGroup>
-      <EmbeddedResource Include="codigo.txt">
+      <EmbeddedResource Include="code.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </EmbeddedResource>
     </ItemGroup>

@@ -4,7 +4,7 @@ namespace ProjetoA3;
 
 public static class Utils
 {
-    public static string LerCodigoArquivo(string nomeArquivo)
+    public static string ReadFile(string nomeArquivo)
     {
         StringBuilder stringBuilder = new();
         using StreamReader reader = new(nomeArquivo);

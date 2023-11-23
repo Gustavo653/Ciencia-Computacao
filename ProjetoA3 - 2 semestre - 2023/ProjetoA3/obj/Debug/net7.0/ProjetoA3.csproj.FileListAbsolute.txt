@@ -43,4 +43,4 @@ C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 202
 C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 2023\ProjetoA3\obj\Debug\net7.0\ProjetoA3.pdb
 C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 2023\ProjetoA3\obj\Debug\net7.0\ProjetoA3.genruntimeconfig.cache
 C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 2023\ProjetoA3\obj\Debug\net7.0\ref\ProjetoA3.dll
-C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 2023\ProjetoA3\bin\Debug\net7.0\codigo.txt
+C:\Users\gustavo.silva\Documents\Ciencia-Computacao\ProjetoA3 - 2 semestre - 2023\ProjetoA3\bin\Debug\net7.0\code.txt

@@ -4,7 +4,7 @@ class Program
 {
     static void Main()
     {
-        string sourceCode = Utils.LerCodigoArquivo("codigo.txt");
+        string sourceCode = Utils.ReadFile("code.txt");
 
         Scanner scanner = new(sourceCode);
         List<Token> tokens = scanner.ScanTokens();
