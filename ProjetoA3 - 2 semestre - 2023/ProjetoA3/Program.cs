@@ -1,9 +1,12 @@
-﻿namespace ProjetoA3;
+﻿using System.Diagnostics;
+
+namespace ProjetoA3;
 
 class Program
 {
     static void Main()
     {
+        Stopwatch sw = Stopwatch.StartNew();
         string sourceCode = Utils.ReadFile("code.txt");
 
         Scanner scanner = new(sourceCode);
@@ -16,5 +19,6 @@ class Program
         Console.WriteLine("\nAnálise Sintática:");
         Parser parser = new(tokens);
         parser.Parse();
+        Console.WriteLine($"\nTempo de análise: {sw.ElapsedMilliseconds}ms");
     }
 }
