@@ -1,9 +1,11 @@
 ﻿namespace ProjetoA3;
-
+/// <summary>
+/// Análise Léxica
+/// </summary>
 public class Scanner
 {
     private readonly string source;
-    private readonly List<Token> tokens = new List<Token>();
+    private readonly List<Token> tokens = new();
     private int start = 0;
     private int current = 0;
     private int line = 1;
@@ -131,25 +133,25 @@ public class Scanner
 
         // Verificar se é uma palavra-chave
         TokenType type = TokenType.IDENTIFIER;
-        if (keywords.ContainsKey(text))
+        if (keywords.TryGetValue(text, out TokenType value))
         {
-            type = keywords[text];
+            type = value;
         }
 
         AddToken(type);
     }
 
-    private bool IsAlpha(char c)
+    private static bool IsAlpha(char c)
     {
         return (c >= 'a' && c <= 'z') || (c >= 'A' && c <= 'Z') || c == '_';
     }
 
-    private bool IsAlphaNumeric(char c)
+    private static bool IsAlphaNumeric(char c)
     {
         return IsAlpha(c) || IsDigit(c);
     }
 
-    private bool IsDigit(char c)
+    private static bool IsDigit(char c)
     {
         return c >= '0' && c <= '9';
     }
@@ -181,13 +183,13 @@ public class Scanner
         return source[current - 1];
     }
 
-    private void AddToken(TokenType type, object literal = null)
+    private void AddToken(TokenType type, object? literal = null)
     {
         string text = source.Substring(start, current - start);
         tokens.Add(new Token(type, text, literal, line));
     }
 
-    private static readonly Dictionary<string, TokenType> keywords = new Dictionary<string, TokenType>
+    private static readonly Dictionary<string, TokenType> keywords = new()
     {
         {"and", TokenType.AND},
         {"class", TokenType.CLASS},

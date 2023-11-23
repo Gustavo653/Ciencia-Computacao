@@ -1,5 +1,7 @@
 ﻿namespace ProjetoA3;
-
+/// <summary>
+/// Análise Sintática e Semântica
+/// </summary>
 public class Parser
 {
     private readonly List<Token> tokens;
@@ -113,7 +115,7 @@ public class Parser
 
         while (Match(TokenType.BANG_EQUAL, TokenType.EQUAL_EQUAL))
         {
-            Token op = Previous();
+            _ = Previous();
             Comparison();
         }
     }
@@ -124,7 +126,7 @@ public class Parser
 
         while (Match(TokenType.GREATER, TokenType.GREATER_EQUAL, TokenType.LESS, TokenType.LESS_EQUAL))
         {
-            Token op = Previous();
+            _ = Previous();
             Addition();
         }
     }
@@ -135,7 +137,7 @@ public class Parser
 
         while (Match(TokenType.PLUS, TokenType.MINUS))
         {
-            Token op = Previous();
+            _ = Previous();
             Multiplication();
         }
     }
@@ -146,7 +148,7 @@ public class Parser
 
         while (Match(TokenType.STAR, TokenType.SLASH))
         {
-            Token op = Previous();
+            _ = Previous();
             Unary();
         }
     }
@@ -155,7 +157,7 @@ public class Parser
     {
         if (Match(TokenType.BANG, TokenType.MINUS))
         {
-            Token op = Previous();
+            _ = Previous();
             Unary();
         }
         else
@@ -248,7 +250,7 @@ public class Parser
         throw Error(Peek(), message);
     }
 
-    private ParseException Error(Token token, string message)
+    private static ParseException Error(Token token, string message)
     {
         Console.WriteLine($"Erro na linha {token.Line}: {message}");
         return new ParseException();
