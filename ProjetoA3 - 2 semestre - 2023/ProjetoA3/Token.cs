@@ -17,6 +17,6 @@ public class Token
 
     public override string ToString()
     {
-        return $"Tipo:{Type} \nValor Interpretado:{Lexeme} \nValor Literal:{Literal ?? "N/A"} \n";
+        return $"Tipo:{Type} \nValor Interpretado:{Lexeme} \nValor Literal:{Literal ?? "N/A"} \nLinha:{Line} \n";
     }
 }
