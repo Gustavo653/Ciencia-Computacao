@@ -1,0 +1,13 @@
+var a = 5;
+var b = 10;
+var c = a + b;
+print c;
+
+if (a > b) 
+{
+    print "a maior que b";
+} 
+else 
+{
+    print "a menor que b";
+}
