@@ -20,6 +20,10 @@
                     switch (opcao)
                     {
                         case 1:
+                            Console.WriteLine("Lista de cidades:");
+                            foreach (var item in distancias.DistinctBy(x => x.PontoInicial))
+                                Console.WriteLine(item.PontoInicial);
+
                             Console.WriteLine("Informe o ponto de partida:");
                             var ponto1 = Console.ReadLine();
                             Console.WriteLine();
@@ -31,32 +35,32 @@
                             break;
 
                         case 2:
-                        {
-                            Stack<string> pilha = new();
+                            {
+                                Stack<string> pilha = new();
 
-                            foreach (var dist in distancias)
-                                pilha.Push(dist.PontoInicial);
+                                foreach (var dist in distancias)
+                                    pilha.Push(dist.PontoInicial);
 
-                            Console.WriteLine("Pilha:");
-                            while (pilha.Count > 0)
-                                Console.WriteLine(pilha.Pop());
+                                Console.WriteLine("Pilha:");
+                                while (pilha.Count > 0)
+                                    Console.WriteLine(pilha.Pop());
 
-                            break;
-                        }
+                                break;
+                            }
 
                         case 3:
-                        {
-                            Queue<string> fila = new();
+                            {
+                                Queue<string> fila = new();
 
-                            foreach (var dist in distancias)
-                                fila.Enqueue(dist.PontoInicial);
+                                foreach (var dist in distancias)
+                                    fila.Enqueue(dist.PontoInicial);
 
-                            Console.WriteLine("Fila:");
-                            while (fila.Count > 0)
-                                Console.WriteLine(fila.Dequeue());
+                                Console.WriteLine("Fila:");
+                                while (fila.Count > 0)
+                                    Console.WriteLine(fila.Dequeue());
 
-                            break;
-                        }
+                                break;
+                            }
 
                         case 4:
                             Environment.Exit(0);
